@@ -2,3 +2,5 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.backports
+.pyi_lib_boto.py
