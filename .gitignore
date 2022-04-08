@@ -4,3 +4,4 @@ __pycache__/
 *$py.class
 .backports
 .pyi_lib_boto.py
+*site-packages
